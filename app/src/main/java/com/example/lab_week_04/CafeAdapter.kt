@@ -11,6 +11,7 @@ val TABS_FIXED = listOf(
     R.string.janjijiwa_title,
     R.string.kopikenangan_title,
 )
+
 val TABS_CONTENT_FIXED = listOf(
     R.string.starbucks_desc,
     R.string.janjijiwa_desc,
